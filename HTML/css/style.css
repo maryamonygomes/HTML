@@ -1,0 +1,20 @@
+.fruits{
+    
+    color:rgb(206, 120, 22);
+    font-family: Helvetica
+    border: 5px;
+    border-style: double;
+    border-color: rgb(5, 105, 71);
+
+}
+
+/* .box{
+    width: 50%;
+    height: 100px;
+    background-color: rgba(red, green, blue, alpha);
+} */
+
+.button{
+
+    background-color: yellow;
+}
